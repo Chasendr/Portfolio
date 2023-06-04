@@ -133,6 +133,9 @@ body {
     padding-top: 0px;
     text-align: center;
 }
+.pink {
+    color: FF9FC0;
+}
 
 nav {
     width: 100%;    
