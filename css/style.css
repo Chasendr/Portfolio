@@ -7,11 +7,11 @@ body {
 }
 ::selection {
     color: white;
-    background: #00969eec;
+    background: #FF9FC0;
 }
 ::-moz-selection {
     color: white;
-    background: #00969eec;
+    background: #FF9FC0;
 }
 .copyright {
     width: 100%;
